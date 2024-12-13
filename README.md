@@ -16,7 +16,7 @@ We've added 🎅 markers to the map, so you can track his journey. Click on the 
 
 ## Demo site
 
-https://shinyanakashima.github.io/Santa-magical-map/
+https://shinyanakashima.github.io/santa-magical-map/
 
 ## License
 

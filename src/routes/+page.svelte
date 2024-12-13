@@ -35,7 +35,7 @@
 		return [...Array(Math.floor((max - min) / step) + 1).keys()].map((i) => min + i * step);
 	};
 
-	// 南緯80度～南緯80度までを、10度刻みで生成
+	// 南緯80度～北緯80度までを、10度刻みで生成
 	const lines_lat = range(-80, 80, 10).map((_lat) => {
 		const featureLine: Feature<LineString, GeoJsonProperties> = {
 			type: "Feature",

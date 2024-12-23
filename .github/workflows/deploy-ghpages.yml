@@ -20,7 +20,7 @@ jobs:
 
       # package.jsonの内容でパッケージインストール
       - name: setup app env
-        run: npm i
+        run: npm ci
 
       # ビルド実行、静的リソースを作る
       - name: build static resources

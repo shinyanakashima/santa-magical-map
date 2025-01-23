@@ -25,6 +25,7 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
+		"@deck.gl/layers": "^9.1.0",
 		"@tailwindcss/postcss": "^4.0.0",
 		"@types/geojson": "^7946.0.15",
 		"cookie": "^1.0.2"

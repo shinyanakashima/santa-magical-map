@@ -103,7 +103,7 @@
 </script>
 
 <div class="flex items-center gap-x-4 text-sm">
-	<pre class="my-1 grow">Santaどこ？ {lngLatText}</pre>
+	<pre class="my-1 grow">Drag santa image {lngLatText}</pre>
 </div>
 
 <MapLibre

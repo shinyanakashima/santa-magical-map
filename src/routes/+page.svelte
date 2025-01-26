@@ -143,7 +143,7 @@
 		{/snippet}
 		<Popup class="text-black" bind:open={popupOpen} offset={offsets}>
 			{#if BOUNDS_JAPAN.contains(lnglat)}
-				<span class="text-lg">メリークリスマス🎄</span>
+				<span class="text-lg">Merry Xmas!🎄</span>
 			{:else}
 				<span class="text-lg">日本が恋しいのぅ...</span>
 			{/if}

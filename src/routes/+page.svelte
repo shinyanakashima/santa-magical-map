@@ -145,7 +145,7 @@
 			{#if BOUNDS_JAPAN.contains(lnglat)}
 				<span class="text-lg">Merry Xmas!🎄</span>
 			{:else}
-				<span class="text-lg">日本が恋しいのぅ...</span>
+				<span class="text-lg">I miss Japan</span>
 			{/if}
 		</Popup>
 	</Marker>

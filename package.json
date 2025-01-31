@@ -25,7 +25,7 @@
 		"vite": "^6.3.3"
 	},
 	"dependencies": {
-		"@deck.gl/layers": "^9.1.11",
+		"@deck.gl/layers": "^9.1.0",
 		"@types/geojson": "^7946.0.16",
 		"cookie": "^1.0.2"
 	}

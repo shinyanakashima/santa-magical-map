@@ -27,6 +27,9 @@
 	"dependencies": {
 		"@deck.gl/layers": "^9.1.0",
 		"@types/geojson": "^7946.0.16",
-		"cookie": "^1.0.2"
+		"cookie": "^1.0.2",
+		"eslint": "^9.25.1",
+		"eslint-config-prettier": "^10.1.2",
+		"prettier": "^3.5.3"
 	}
 }

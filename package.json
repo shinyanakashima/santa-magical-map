@@ -30,6 +30,7 @@
 		"cookie": "^1.0.2",
 		"eslint": "^9.25.1",
 		"eslint-config-prettier": "^10.1.2",
+		"eslint-plugin-svelte": "^3.5.1",
 		"prettier": "^3.5.3"
 	}
 }

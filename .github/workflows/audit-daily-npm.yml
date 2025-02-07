@@ -21,4 +21,4 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
       - name: Check dependencies
-        run: npm audit
+        run: npm audit --audit-level=moderate

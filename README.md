@@ -1,4 +1,7 @@
 # Santa's Magical Map: World Tour with Web Mercator Projection
+[![Daily npm audit](https://github.com/shinyanakashima/santa-magical-map/actions/workflows/audit-daily-npm.yml/badge.svg)](https://github.com/shinyanakashima/santa-magical-map/actions/workflows/audit-daily-npm.yml)
+[![deploy-to-github-pages](https://github.com/shinyanakashima/santa-magical-map/actions/workflows/deploy-ghpages.yml/badge.svg)](https://github.com/shinyanakashima/santa-magical-map/actions/workflows/deploy-ghpages.yml)
+
 Ever wondered why maps can look so different? This demo highlights the distortions inherent in the Web Mercator projection. Imagine how distorted the world would appear if you were to zoom in on the polar regions!
 
 ## 🎄Get into the holiday spirit🎄

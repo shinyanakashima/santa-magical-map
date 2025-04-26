@@ -124,12 +124,16 @@
 				"line-width": 5,
 			}}
 			onmousemove={(e) => {
-				map.getCanvas().style.cursor = "pointer";
-				popupOfLine.setLngLat(e.lngLat).setHTML(String(e.lngLat)).addTo(map);
+				if (map) {
+					map.getCanvas().style.cursor = "pointer";
+					popupOfLine.setLngLat(e.lngLat).setHTML(String(e.lngLat)).addTo(map);
+				}
 			}}
 			onmouseleave={() => {
-				map.getCanvas().style.cursor = "";
-				popupOfLine.remove();
+				if (map) {
+					map.getCanvas().style.cursor = "";
+					popupOfLine.remove();
+				}
 			}}
 		/>
 	</GeoJSONSource>
